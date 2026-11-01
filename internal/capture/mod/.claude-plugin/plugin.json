@@ -1,0 +1,7 @@
+{
+  "name": "loci-pick",
+  "version": "0.1.0",
+  "description": "Attach this Claude Code session to a Loci task or project from a card above the prompt",
+  "author": { "name": "Loci" },
+  "types": "./types/index.d.ts"
+}
